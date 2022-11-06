@@ -10,6 +10,7 @@ Create python virtual enviroment:
 
 ### Usage 
 ```python -m [COMMAND] [OPTION]```
+
 Options: 
 ```  
   -v, --version         Show the application's version and exit.
