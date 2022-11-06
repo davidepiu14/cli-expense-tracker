@@ -9,7 +9,7 @@ Create python virtual enviroment:
 2)  . venv/bin/activate
 
 ### Usage 
-```python -m [COMMAND] [OPTION]```
+```python -m tracker [COMMAND] [OPTION]```
 
 Options: 
 ```  
