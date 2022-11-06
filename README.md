@@ -9,6 +9,7 @@ Create python virtual enviroment:
 2)  . venv/bin/activate
 
 ### Usage 
+Options: 
 ```  
   -v, --version         Show the application's version and exit.
   --install-completion  Install completion for the current shell.
