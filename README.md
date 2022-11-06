@@ -9,6 +9,7 @@ Create python virtual enviroment:
 2)  . venv/bin/activate
 
 ### Usage 
+```python -m [COMMAND] [OPTION]```
 Options: 
 ```  
   -v, --version         Show the application's version and exit.
@@ -25,3 +26,4 @@ Commands:
   list      List all expenses.
   remove    Remove a expense using its EXPENSE_ID
 ```
+
